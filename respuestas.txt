@@ -1,1 +1,5 @@
-Comienzo
+18. ¿Cu´al es el resultado de la siguiente operaci´on?
+Hello world
+ => nil
+ 
+ 
