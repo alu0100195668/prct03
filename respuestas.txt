@@ -2,4 +2,14 @@
 Hello world
  => nil
  
- 
+ 21. ¿Cu´ales son las diferencias entre la ejecuci´on del programa "Hola Mundo" con el int´erprete
+de Ruby (ruby helloWorld.rb) y el int´erprete interactivo del ejercicio anterior?
+-irb
+2.0.0-p247 :001 > puts 'Hello world'2.0.0-p247 :001 > 
+Hello world
+ => nil 
+2.0.0-p247 :001 > 
+
+-Ruby
+Hello world
+
